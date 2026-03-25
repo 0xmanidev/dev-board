@@ -7,5 +7,5 @@ I chose rp2040 because it has great support with circuit python and that's the l
 
 I journalled everything in hack club https://blueprint.hackclub.com/projects/13798
 
-made with ❤️ and help with hack club community
+made with ❤️ and with the help of hack club community
 ![final product](devboard.png)
